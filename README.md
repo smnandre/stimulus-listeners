@@ -131,4 +131,4 @@ npm run test:coverage
 
 ## License
 
-[`stimulus-listeners`](https://github.com/smnandre/nmsize) is released by [Simon André](https://github.com/smnandre) under the [MIT License](LICENSE).
+[`stimulus-listeners`](https://github.com/smnandre/stimulus-listeners) is released by [Simon André](https://github.com/smnandre) under the [MIT License](LICENSE).
